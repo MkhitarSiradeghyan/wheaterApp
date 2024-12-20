@@ -1,8 +1,7 @@
 {
-  "name": "wheater-app",
+  "name": "weather-app",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://api.openwheatermap.org",
   "dependencies": {
     "@reduxjs/toolkit": "^2.5.0",
     "axios": "^1.7.9",

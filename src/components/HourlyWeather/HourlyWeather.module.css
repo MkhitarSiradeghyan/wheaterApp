@@ -1,0 +1,8 @@
+.hour {
+  display: grid;
+  grid-template-columns: max-content 50px max-content;
+  gap: 2em;
+}
+.temp {
+  text-align: end;
+}

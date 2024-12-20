@@ -1,8 +1,8 @@
 import { configureStore } from "@reduxjs/toolkit";
-import wheaterReducer from './wheaterSlice'
+import weatherReducer from "./weatherSlice";
 
 export const store = configureStore({
-    reducer: {
-        wheater: wheaterReducer,
-    }
-})
+  reducer: {
+    weather: weatherReducer,
+  },
+});

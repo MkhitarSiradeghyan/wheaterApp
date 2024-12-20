@@ -1,5 +1,6 @@
 .container {
-    margin: 0 auto;
-    width: 96%;
-    max-width: 1440px;
+  margin: 0 auto;
+  width: 96%;
+  max-width: 1440px;
+  height: 100%;
 }
